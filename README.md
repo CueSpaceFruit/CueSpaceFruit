@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CueSpaceFruit
-- 👀 I’m interested in Data Science, Data Engineering, Cosmology, Zooniverse, Kaggle
-- 🌱 I’m currently learning Data Science, Visualisation
+- 👀 I am a Data Scientist, and interested in Data Engineering, Cosmology, Zooniverse, Kaggle
+- 🌱 I am a continous learner currently on a journey in computer vision and deep learning models
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me singularitysunberry@gmail.com
 
